@@ -6,7 +6,10 @@
  python 3.6.0
  
  DataSet：
+ 
  ln -s $your_data data/voc
+ 
  python preprocess_pascal_voc.py  
  
+ Train:
  python tools/train.py
