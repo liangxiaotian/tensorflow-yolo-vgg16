@@ -5,10 +5,7 @@
  tensorflow 1.4.0
  python 3.6.0
  
- ## DataSet：
-=======
  # DataSet：
-
 
  ln -s $your_data data/voc
  
@@ -16,6 +13,5 @@
  
  
  ## Train:
-=======
- # Train:
+
  python tools/train.py
